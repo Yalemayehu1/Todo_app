@@ -13,11 +13,9 @@ we are building a Todo app implementation. TBA
      bootstrap: for components.
      pytest: for tests
      docker:
-     TBA
+     TBA 
 
 #Features
-
--Addingsimple
 
 # Project structure:
 
@@ -36,4 +34,5 @@ we are building a Todo app implementation. TBA
         * user goes to the site and interacts with the apllication.
         * the application has a list of task in  which a user can update, delete, create or read.
         * CRUD - create, read, update, delete.
+
 # Todo_app
